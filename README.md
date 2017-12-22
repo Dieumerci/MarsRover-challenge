@@ -4,7 +4,7 @@ The code and programs, that are contained within the folder are solution's to th
 ## CODE STRUCTURE
 ### RoverMain Class
 * Is the main java class
-* Creates the Mars Rove Object with all the command instructions needed
+* Creates the Mars Rover Object with all the command instructions needed
 ### directionChange Class
 * Has the ability to store an x coordinate, y coordinate, and orientation
 ### MarsRover Class
