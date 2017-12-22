@@ -2,17 +2,16 @@
 The code and programs, that are contained within the folder are solution's to the Mars Rover coding challenge.
 
 ## CODE STRUCTURE
+### RoverMain Class
+* Is the main java class
+* Creates the Mars Rove Object with all the command instructions needed
 ### directionChange Class
-* able to create rovers that store an x coordinate, y coordinate, and orientation
-* Third Party Tools:
-
+* Has the ability to store an x coordinate, y coordinate, and orientation
 ### MarsRover Class
-* z
-* z
+* The possible letters are 'L', 'R' and 'M'. 'L' and 'R
+* The possible letters are 'E', 'W' and 'S'. 'N' 
 ### Position Class
-* z
-* z
-
+* Position object in this case the location can point us to the rovers location " X,Y " and direction
 ## CHALLENGES & REFLECTIONS
 After doing some research, I came to a conclusion that the best approach to solve the Mars Rover coding challenge is to implement the TDD methodology. The TDD methodology follows a RED, GREEN and REFACTOR approach.
 
@@ -21,8 +20,6 @@ I had originally started this challenge in c#, but eventually decided to continu
 1. First time using the TDD methodology
 1. I was able to expand my understanding of the importances of TDD
 1. TDD with JUnit helped produce better code
-   1. Item 3a
-   1. Item 3b
 ## DEVELOPMENT ENVIROMENT
 The following tools were used to developed the application:
 * IntelliJ IDEA 2017.2.3
