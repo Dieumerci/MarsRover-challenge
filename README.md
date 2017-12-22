@@ -2,17 +2,18 @@
 The code and programs, that are contained within the folder are solution's to the Mars Rover coding challenge.
 
 ## CODE STRUCTURE
-#### directionChange Class
-* IntelliJ IDEA 2017.2.3
-* Third Party Tools:
-#### MarsRover Class
-* IntelliJ IDEA 2017.2.3
-* Third Party Tools:
-#### Position Class
-* IntelliJ IDEA 2017.2.3
+### directionChange Class
+* able to create rovers that store an x coordinate, y coordinate, and orientation
 * Third Party Tools:
 
-### CHALLENGES & REFLECTIONS
+### MarsRover Class
+* z
+* z
+### Position Class
+* z
+* z
+
+## CHALLENGES & REFLECTIONS
 After doing some research, I came to a conclusion that the best approach to solve the Mars Rover coding challenge is to implement the TDD methodology. The TDD methodology follows a RED, GREEN and REFACTOR approach.
 
 I had originally started this challenge in c#, but eventually decided to continue in Java as I am currently more comfortable with the language.Although writing this programme has so far been an enjoyable challenge, I enjoyed the opportunity to work with Design Pattern implementations and TDD approach.
@@ -29,7 +30,7 @@ The following tools were used to developed the application:
   * hamcrest-core-1.3.jar
   * junit-4.12.jar
 * Build Tools:
-  * JUnit 4.1.2
+  * JUnit 4.12
   * Java version 1.8.0_111
 ## INSTALLATION AND TESTING
 The main class(Main.java) is reside inside next45\src\RoverMain.java. We need to run this file to run the application.
