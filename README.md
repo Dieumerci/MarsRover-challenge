@@ -1,21 +1,27 @@
 # next45-MarsRover-challenge
 The code and programs, that are contained within the folder are solution's to the Mars Rover coding challenge.
 
-## DESIGN AND ASSUMPTIONS
-After doing some research, I came to a conclusion that the best approach to solve the Mars rover coding challenge is to implement the TDD methodology. The TDD methodology follows a RED, GREEN and REFACTOR approach the TDD approach is explained in detail below:
-1. The first approach is to write all the test code.
-1. After the test code is written, I ran the code which lead to:
-1. Item 3
+## CODE STRUCTURE
+#### directionChange Class
+* IntelliJ IDEA 2017.2.3
+* Third Party Tools:
+#### MarsRover Class
+* IntelliJ IDEA 2017.2.3
+* Third Party Tools:
+#### Position Class
+* IntelliJ IDEA 2017.2.3
+* Third Party Tools:
+
+### CHALLENGES & REFLECTIONS
+After doing some research, I came to a conclusion that the best approach to solve the Mars Rover coding challenge is to implement the TDD methodology. The TDD methodology follows a RED, GREEN and REFACTOR approach.
+
+I had originally started this challenge in c#, but eventually decided to continue in Java as I am currently more comfortable with the language.Although writing this programme has so far been an enjoyable challenge, I enjoyed the opportunity to work with Design Pattern implementations and TDD approach.
+
+1. First time using the TDD methodology
+1. I was able to expand my understanding of the importances of TDD
+1. TDD with JUnit helped produce better code
    1. Item 3a
    1. Item 3b
-In conclusion I'd love the opportunity to discuss both the Design Pattern implementations and TDD approach further with your developers, as I'm sure there's a lot I can learn and improve in these aspects
-
-## Challenges
-
-I had originally started this challenge in JavaScript, but eventually decided to continue in Ruby as I am currently more comfortable with the language.
-
-Although writing this programme has so far been an enjoyable challenge, I currently stand defeated by the lost robot who just refuse to return the last position they were at before falling off the grid. Pesky robots!
-
 ## DEVELOPMENT ENVIROMENT
 The following tools were used to developed the application:
 * IntelliJ IDEA 2017.2.3
